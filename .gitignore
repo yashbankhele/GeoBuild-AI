@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+data/real_imagery/
+artifacts/*.joblib
+artifacts/*.tif
+.DS_Store

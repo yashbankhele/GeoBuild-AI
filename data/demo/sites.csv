@@ -1,0 +1,4 @@
+site_id,site_name,status,area_label,latitude,longitude,data_note
+SITE-001,North Expansion Demo,Monitoring,Illustrative Pune region,18.5204,73.8567,Synthetic example; not a real monitored site.
+SITE-002,Industrial Park Demo,Review needed,Illustrative western India,19.076,72.8777,Synthetic example; not a real monitored site.
+SITE-003,Road Corridor Demo,Monitoring,Illustrative Maharashtra,18.6298,73.7997,Synthetic example; not a real monitored site.
